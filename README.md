@@ -1,6 +1,8 @@
 # Annotations
 Lesson 2 from Patrick Collins fullstack web3 course with JavaScript.
 
+Contract deployed address: `0x4223868CEe5A3Cc79ddFa0C0CcbB4006F0046ea9`
+
 - `SPDX-License-Identifier: MIT` : this line is always at the top of you're solidity files and just state the license type for your code, it's not obligatory but some compilers will flag you with warnings if you don't use
 - at the top of a file in solidity, we always have to state what version of it we're using
 	- `pragma solidity <version>`  eg : `pragma solidity 0.8.7` 
